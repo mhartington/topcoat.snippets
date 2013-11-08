@@ -1,0 +1,9 @@
+{
+    "name": "topcoat.snippets",
+    "title": "Topcoat Snippets",
+    "homepage": "https://github.com/mhartington/Topcoat-Extension",
+    "author": "Mike Hartington",
+    "version": "1.0.0",
+    "engines": { "brackets": ">=0.24" },
+    "description": "A simple snippets extension for Topcoat."
+}
